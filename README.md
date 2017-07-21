@@ -10,4 +10,6 @@ Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 > cd react-redux-weather
 > npm install
 > npm start
+
+In your browser, navigate to http://localhost:8080/
 ```
